@@ -21,7 +21,7 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 *Ref 1: Network Diagram* -->
 - First evaluate the given scenario, and understand the DDoS attack and get all the details surrounding the attack.
-  [DDoD Attack Scenario](https://docs.google.com/document/d/1NlzFtMUVILaE3_YNbFbEnHvBQCxnuCWWwQginOaavfw/edit)
+  [DDoS Attack Scenario](https://docs.google.com/document/d/1NlzFtMUVILaE3_YNbFbEnHvBQCxnuCWWwQginOaavfw/edit)
 - Second evaluate the NIST CSF and how it is applied. This allows me to begin formulating how I can apply it to the given DDoS attack scenario.
   [NIST CSF Documention](https://docs.google.com/document/d/12-LOHfNaxbixsiPSBMaeHdWXyOhDa6Zhs8huxRCZstA/edit)
 - Third is to actually apply the NIST CSF to incident response, in this case applied to the DDoD attack that took place.
